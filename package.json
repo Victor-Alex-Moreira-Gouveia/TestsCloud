@@ -1,0 +1,16 @@
+{
+  "name": "labforweb",
+  "version": "1.0.0",
+  "description": "Testes de aplicação para a ClaudFlare",
+  "license": "MIT",
+  "author": "Victor Alex Moreira Gouveia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
